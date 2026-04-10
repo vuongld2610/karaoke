@@ -27541,6 +27541,7 @@ TÌNH CÒN VƯƠNG VẤN	tcvv
 TÌNH CỜ YÊU EM	tcye 
 TA CÒN YÊU NHAU	tcyn 
 TÌNH CHÀNG Ý THIẾP	tcyt 
+TÌNH ĐẤT	td 
 TỪ ĐÓ	td 
 TẠ ĐỜI	td 
 TÌNH DƠ	td 
@@ -27551,17 +27552,9 @@ THẤU ĐỜI	td
 THAY ĐỔI	td 
 THÓI ĐỜI	td 
 TIỄN ĐƯA	td 
-TÌNH ĐẤT	td 
 TÌNH ĐẦU	td 
 TÌNH ĐỜI	td 
 TƠ DUYÊN	td 
-TRÓT DẠI	td 
-THIÊN ĐỊA	td 
-TÌNH ĐẮNG	td 
-TỦI DUYÊN	td 
-THẰNG ĐIÊN	td 
-THIÊN ĐÀNG	td 
-TIẾC DUYÊN	td 
 TỪ ĐÓ TONE NỮ	td 
 TỪ ĐÓ TONE NAM	td 
 TÌM ĐÂU TONE NỮ	td 
