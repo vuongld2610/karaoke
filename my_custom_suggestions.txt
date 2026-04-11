@@ -26926,7 +26926,6 @@ TÌNH 2000	t2
 THÁNG 5 KHÔNG TRỞ LẠI	t5ktl 
 THÁNG 6 CỦA ANH	t6ca 
 THÁNG 7 CỦA ANH	t7ca 
-ĐA TẠ	ta 
 TÚY ÂM	ta 
 TIỀN ẢO	ta 
 THEO ANH	ta 
